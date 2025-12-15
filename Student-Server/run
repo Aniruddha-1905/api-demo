@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mvn clean package dependency:copy-dependencies
+
+java -cp "target/classes:target/dependency/*" app.Program

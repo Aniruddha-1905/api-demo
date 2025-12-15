@@ -1,0 +1,5 @@
+app/Model/StudentModel.class
+app/resource/StudentResource.class
+app/Student/StudentEntity.class
+app/resource/StudentManagerApi.class
+app/Program.class
